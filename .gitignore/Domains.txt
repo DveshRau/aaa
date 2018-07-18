@@ -1,0 +1,29 @@
+
+
+Local Group Memberships
+Global Group memberships     *RG-BI-ADMINS         *For_KL-offshore
+                             *PG8-TLCDW-Admins     *UG-DRA-IS-STK-LOKAL
+                             *SG-VRT-idm-ultraedit-*RG-ControllerDW-FTP
+                             *Domain Users         *RG-CDW-ADMINS
+                             *SG-INS-hp-qualitycent*SG-INS-ms-onedrive-en
+                             *PG8-BI_Test_Automatio*YG-BI-ACC
+                             *RG-S2-READ           *LG-Azure-Office365-On
+                             *RG-CDW-ACC           *QG-PrintRelease_06_Ba
+                             *RG-CDW-PRD           *SG-INS-ms-visioprofes
+                             *YG-SAS-APP-USER-PRD  *PG8-TLCDW-TFA
+                             *RG-BI-TST            *QG-PrintRelease_01
+                             *YG-BI-TST            *PG8-TestAutomation-Co
+                             *RG-BI-ACC            *AG-WADM-b8090080
+                             *YG-S2DataStaging-ADM-*RG-CDW-TST
+                             *UG-SEBUSER           *JG2-ReSharper
+                             *FG-APP-PROD-MS-Office*PG8-SOLVENCY2-TFA
+                             *SG-INS-ms-skypeforbus*JG2-VisualStudioProfe
+                             *JG2-ERwin-WorkGroupEd*YG-CDW-ACC
+                             *YG-SAS-APP-USER-TST  *YG-BI-ADMINS
+                             *YG-CDW-TST           *UG-Azure-ADSync
+                             *RG-S2-ADM            *UG-Intune-OneDrive
+                             *PG8-PFDW-Contributors*PG1-54510_IT-avdelnin
+                             *YG-S2DataStaging-ADM-
+
+
+
